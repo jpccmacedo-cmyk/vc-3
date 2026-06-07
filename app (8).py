@@ -489,7 +489,7 @@ st.markdown(
     - Você escolhe **uma data**;
     - O sistema tenta copiar a aba correspondente à data escolhida;
     - Se um arquivo não tiver a aba da data, o sistema copia a aba **Gerencial**;
-    - O arquivo final é gerado com nomes padronizados: **PVE, COB, NOB, EDE, SOB, XAM, CUI**;
+    - O arquivo final é gerado com nomes padronizados: **COB, CUI, EDE, NOB, PVE, SOB, XAM**;
     - Todas as abas finais ficam com **zoom 80%**, **painéis congelados em A5**, **sem linhas de grade**, **larguras de colunas iguais às da aba EDE** e **sem conteúdos da coluna M em diante**.
     """
 )
